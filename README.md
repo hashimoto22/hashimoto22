@@ -1,8 +1,8 @@
 <h3 align="center">Kohei Hashimoto</h3>
-<h1 align="center">🌟 Senior Flutter Developer 🌟</h1>
+<h1 align="center">🌟 Senior Backend & Mobile Developer 🌟</h1>
 
 ### Hey there, I'm Kohei <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- I'm Senior Flutter Developer, develop flutter apps to different platforms: Android, IOS, Web, Windows.  
+- I'm Senior Backend & Mobile App Developer, develop flutter apps to different platforms: Android, IOS, Web, Windows.  
 - BE - Informatics Engineer, 7 years of coding, have 6 certificates ,developed 11 Flutter projects and 15 Android projects. 
 - Interested in programming, I love individual thinking creating solutions And finding creative ways.
 - With 1.5 years of solid experience in flutter framework, i can create complex designs with the latest technologies and architectures.
