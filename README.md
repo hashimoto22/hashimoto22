@@ -1,55 +1,122 @@
-<h3 align="center">Kohei Hashimoto</h3>
-<h1 align="center">🌟 Senior Backend & Mobile Developer 🌟</h1>
+# Kohei Hashimoto
 
-### Hey there, I'm Kohei <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- I'm Senior Backend & Mobile App Developer, develop flutter apps to different platforms: Android, IOS, Web, Windows.  
-- BE - Informatics Engineer, 7 years of coding, have 6 certificates ,developed 11 Flutter projects and 15 Android projects. 
-- Interested in programming, I love individual thinking creating solutions And finding creative ways.
-- With 1.5 years of solid experience in flutter framework, i can create complex designs with the latest technologies and architectures.
-- Professional technologies in my apps: Bloc, Isar, ObjectBox, Hive, Dio, Injectable, Firebase, Maps, Export Excels files, Payments, Deferred-Components, In-App purchases, Google mobile ads, Fluent Ui, Lottie, Charts, OneSignal, Unit Testing and more...
+## 🌟 Senior Backend Engineer & Software Architect 🌟
 
-### Flutter Framework Skills:
-- **Structure:**  MVVM Design Pattern, MVI Design Pattern, Domain Driven Design (DDD), SOLID principles, Usecases & mappers layers, online/offline concept.  
-- **State Management:**  Bloc, Provider, Getx, Riverpod.  
-- **Databases:**  Isar, Objectbox, Moor, Hive, SQLite.  
-- **Services:**  Go-Router, Injectable, Dio, Encryption/Decryption, Check internet, Multi Themes, Multi languages, Export Barcode, Export Excels, Files Export Pdfs.  
-- **Firebase:**  Authentication (Google Facebook,Microsoft), Firestore, Hosting, Messaging, Dynamic LinkApp Check.  
-- **Maps:**  Mapbox Map.  
-- **Payments:**  Stripe, Paypal (Braintree).  
-- **HTTP Requests by Dio:**  POST, PUT, DELETE, PATCH, GET, Upload Files, Download Files. 
-- **Flutter Web:**  Fast First loading, Smooth Scrolling D`esktop, Vercel Hosting, Firebase Hosting, Deferred-Components, Drop Zone, Web Widgets, Modifying Web Project.  
-- **Plugins:**  Text To Speech, Speech To Text, OneSignal, Share, Printing, Notifications, Barcode Reader, Locator, In-App purchases, Google mobile ads, Flutter Icon Launcher, Native Splash Screen, SMS Message, Call Phone.  
-- **Packages:**  Fluent Ui, Lottie Animations, Pagination, Sound effects, Pick images (Desktop,Web), Capture Photos, Pick image gallery, Signature, Charts, QR Code, Advanced ClipPaths.  
-- **Publish:**  Google play.
-- **Others:**  Animations, Unit Testing, Threading, Streams, Life Cycle Widget.
+---
 
-### Social Media Accounts:
-[<img align="left" alt="Github" width=22px src="https://drive.google.com/uc?id=1hMge-Qyn89B3t7SZwe5YXZs4AAaPBP5r">](https://github.com/hashimoto22)
-[<img align="left" alt="Stackoverflow" width=22px src="https://drive.google.com/uc?id=17z8H2YnR3Ot5Mdpozh9FEorC4Ta87UD6">](https://stackoverflow.com/users/10669265/kohei-hashimoto)
-[<img align="left" alt="Facebook" width=22px src="https://drive.google.com/uc?id=1qfWQlPxifueAzv1dG0FzjFV5h89sI0vc">](https://www.facebook.com/profile.php?id=100074839893743)
-[<img align="left" alt="Instagram" width=22px src="https://drive.google.com/uc?id=1L604ILK6tQbnwn6a5EGsBN-t4y1U3XLh">](https://www.instagram.com/kohei_hashimoto_dev/)
-[<img align="left" alt="Twitter" width=22px src="https://drive.google.com/uc?id=1999r_Hcjzc9CUzAyN9g0ljRDvcxUuD_R">](https://twitter.com/kohei10233202)
-[<img align="left" alt="LinkedIn" width=22px src="https://drive.google.com/uc?id=1h1gA2f0KaCfG7-rz8vrVq33E1uvy18FC">](https://www.linkedin.com/in/kohei-hashimoto-b734aa22a/).  
+### About Me
 
+- I’m a Senior Backend Engineer and full-stack software architect with over 7 years of coding experience across a broad stack. I design scalable systems, APIs, and user-centric frontends with a strong emphasis on reliability, maintainability, and performance.
+- Core strength: building robust backends with .NET (ASP.NET Core, Web API, Razor Pages, Blazor), Java (Spring Boot), Node.js/NestJS, Next.js, and MERN/MEAN stacks. I thrive on solving complex problems with clean architecture, design patterns, and pragmatic engineering.
+- I enjoy turning ideas into production-ready software, leading feature teams, and mentoring junior engineers. I’m passionate about software craftsmanship, automated testing, and DevOps practices that improve deployment velocity and system resilience.
+- Tools & technologies span cloud-native architectures, microservices, event-driven design, REST/GraphQL APIs, CI/CD pipelines, containers, and telemetry/observability.
 
-### My Best Flutter Projects: 
-- ⭐ [Business Light](https://github.com/hashimoto22/business_light)
-- ✨ [Bank Al-Dawa](https://github.com/hashimoto22/bank-al-dawa)
-- 💎 [DostiPak](https://github.com/hashimoto22/DostiPak)
-- 🚀 [Super Circle](https://github.com/hashimoto22/super_circle)
+---
 
+## Core Competencies
 
-### My Frameworks:
-- Flutter Framework
-- Android Framework
-- NodeJS Framework
+- **Backend & API Design**
+  - .NET Framework and .NET Core / ASP.NET Core Web API
+  - Razor Pages, Blazor (Server & WebAssembly)
+  - Java Spring Boot (REST, microservices)
+  - Node.js / NestJS (GraphQL & REST)
+  - Next.js (Server Components, API Routes)
+  - MERN/MEAN stack (MongoDB, Express, React/Angular/Vue, Node.js)
 
+- **Architecture & Patterns**
+  - Clean Architecture, SOLID, Domain-Driven Design (DDD)
+  - Microservices, Monolith-to-Microservices strategies
+  - Event-driven design, messaging (RabbitMQ, Kafka)
+  - API design: REST, GraphQL, OpenAPI/Swagger
 
-### My Services:
-- 📱 Developing Mobile Apps
-- 💻 Developing Windows Apps
-- 🖥 Developing Web Apps (Flutter)
-- 🛡 Developing Backend (NodeJS)
-- 💎 Designing UI/UX (Adobe XD)
+- **Databases & Persistence**
+  - SQL Server, PostgreSQL, MySQL, MongoDB, Redis
+  - ORM: Entity Framework Core, Dapper, Hibernate (Java)
+  - Caching, data modeling, and performance optimization
 
+- **Frontend (Full-Stack Context)**
+  - Blazor (Server & WASM), Next.js, React-based frontends
+  - Razor Pages, SPA patterns, responsive UI
 
+- **DevOps & Observability**
+  - CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+  - Docker/Kubernetes, cloud-native deployments
+  - Logging, metrics, tracing (Serilog, OpenTelemetry, Prometheus, Grafana)
+
+- **Testing & Quality**
+  - Unit, integration, and end-to-end testing
+  - Test-Driven Development (TDD) and Behavior-Driven Development (BDD)
+  - Static code analysis, code quality gates
+
+- **Security & Compliance**
+  - OAuth2 / OpenID Connect, JWT
+  - Secure API design, input validation, threat modeling
+
+---
+
+## Selected Experience Highlights
+
+- Led end-to-end architecture and delivery of multiple large-scale backend systems using ASP.NET Core Web API, with clean architecture and domain-driven design.
+- Built and scaled microservices with event-driven communication and robust data consistency strategies.
+- Migrated legacy services to modern .NET Core and integrated modern frontend frameworks (Next.js, Blazor) to deliver cohesive UX.
+- Designed and implemented secure RESTful endpoints, GraphQL schemas, and efficient data access layers.
+- Implemented comprehensive testing strategies (unit, integration, contract testing) and automated CI/CD pipelines.
+- Mentored engineers across frontend and backend teams, establishing best practices and coding standards.
+
+---
+
+## Tech Stack at a Glance
+
+- **Backend:** ASP.NET Core Web API, ASP.NET Razor Pages, Blazor, .NET Framework (legacy), Java Spring Boot, Node.js/NestJS
+- **Frontend / SSR:** Next.js, Blazor, React, Razor Pages
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, Redis
+- **Message & Queues:** RabbitMQ, Kafka
+- **Cloud & Infra:** Azure, AWS, Docker, Kubernetes, Terraform (optional)
+- **Testing:** xUnit/NUnit, MSTest, Jest (for frontend), Postman, Pact/Contract testing
+- **Security:** OAuth2, OpenID Connect, JWT, API security best practices
+- **Tools:** Git, GitHub Actions, Azure DevOps, Jenkins, Swagger/OpenAPI, EF Core, Dapper, AutoMapper
+
+---
+
+## Projects & Case Studies
+
+- Designed a multi-tenant ASP.NET Core Web API with clean architecture, enabling rapid onboarding of new services and scalable data isolation.
+- Implemented a Spring Boot microservices suite with centralized configuration and distributed tracing for observability.
+- Built a Next.js frontend with API Routes connected to a NestJS backend, delivering a seamless developer experience and robust security model.
+- Migrated a legacy monolith to a microservices ecosystem with event sourcing and CQRS where appropriate.
+- Implemented Blazor Server/WASM components for rich admin dashboards with real-time data via SignalR.
+
+---
+
+## My Services
+
+- 🧰 Backend System Design and Architecture
+- 🧩 API Design, REST/GraphQL, and API Gateway strategies
+- 🚀 Microservices & Cloud-native development
+- 🧪 Testing Strategy & Quality Assurance
+- 🔒 Security Architecture and Identity Management
+- 🧭 Tech Leadership, Code Reviews, and Mentoring
+- 🎯 Performance Tuning, Profiling, and Optimization
+
+---
+
+## Social & Professional Presence
+
+- GitHub: https://github.com/hashimoto22
+- Stack Overflow: https://stackoverflow.com/users/10669265/kohei-hashimoto
+- LinkedIn: https://www.linkedin.com/in/kohei-hashimoto-b734aa22a/
+- Twitter: https://twitter.com/kohei10233202
+
+---
+
+## My Flutter & Mobile Capabilities (Context)
+
+- While my core strengths have expanded to backend and full-stack leadership, I continue to apply mobile development discipline where needed:
+  - Flutter-based mobile apps targeting Android, iOS, Web, and Windows
+  - State management with Bloc, Riverpod, Provider
+  - Firebase integration, in-app purchases, maps, payments, and offline-capable features
+  - Cross-platform packaging and deployment considerations
+
+---
+
+If you’d like, I can tailor this profile further to specific roles, emphasized tech stacks, or particular achievements. I can also draft a concise professional summary for LinkedIn or a resume, and generate a portfolio of sample projects with technical details and outcomes. Would you like me to draft a polished resume version or a LinkedIn-ready summary?
