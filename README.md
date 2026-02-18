@@ -1,6 +1,6 @@
 # Kohei Hashimoto
 
-## 🌟 Senior Backend Engineer & Software Architect 🌟
+## Senior Backend Engineer & Software Architect
 
 ---
 
