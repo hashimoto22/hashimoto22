@@ -1,12 +1,12 @@
 # Kohei Hashimoto
 
-## Senior Backend Engineer & Software Architect
+## Senior AI fullstack engineer & Software Architect
 
 ---
 
 ### About Me
 
-- I’m a Senior Backend Engineer and full-stack software architect with over 7 years of coding experience across a broad stack. I design scalable systems, APIs, and user-centric frontends with a strong emphasis on reliability, maintainability, and performance.
+- I’m a Senior AI fullstack Engineer and software architect with over 7 years of coding experience across a broad stack. I design scalable systems, APIs, and user-centric frontends with a strong emphasis on reliability, maintainability, and performance.
 - Core strength: building robust backends with .NET (ASP.NET Core, Web API, Razor Pages, Blazor), Java (Spring Boot), Node.js/NestJS, Next.js, and MERN/MEAN stacks. I thrive on solving complex problems with clean architecture, design patterns, and pragmatic engineering.
 - I enjoy turning ideas into production-ready software, leading feature teams, and mentoring junior engineers. I’m passionate about software craftsmanship, automated testing, and DevOps practices that improve deployment velocity and system resilience.
 - Tools & technologies span cloud-native architectures, microservices, event-driven design, REST/GraphQL APIs, CI/CD pipelines, containers, and telemetry/observability.
@@ -73,6 +73,7 @@
 
 ## Tech Stack at a Glance
 
+- **AI agent:** LLM, Local LM, MCP server, LangGraph, RAG system, Efficient memory system, Langchain
 - **Backend:** ASP.NET Core Web API, ASP.NET Razor Pages, Blazor, .NET Framework (legacy), Java Spring Boot, Node.js/NestJS
 - **Frontend / SSR:** Next.js, Blazor, React, Razor Pages
 - **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, Redis
@@ -96,6 +97,8 @@
 
 ## My Services
 
+- 🧾 Technical Strategy & Consulting
+- 🤖 AI Agent Development & Integration
 - 🧰 Backend System Design and Architecture
 - 🧩 API Design, REST/GraphQL, and API Gateway strategies
 - 🚀 Microservices & Cloud-native development
@@ -111,7 +114,6 @@
 - GitHub: https://github.com/hashimoto22
 - Stack Overflow: https://stackoverflow.com/users/10669265/kohei-hashimoto
 - LinkedIn: https://www.linkedin.com/in/kohei-hashimoto-b734aa22a/
-- Twitter: https://twitter.com/kohei10233202
 
 ---
 
