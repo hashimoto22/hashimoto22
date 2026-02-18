@@ -15,6 +15,12 @@
 
 ## Core Competencies
 
+- **AI Agent & ML-Driven Systems**
+  - Hands-on experience designing and implementing AI agents and ML-driven backend services that augment product workflows and automate complex decision-making.
+  - Built conversational agents and autonomous task agents integrating LLMs (OpenAI, Anthropic, local/on-prem models), retrieval-augmented generation (RAG) with vector stores, and prompt engineering for robust, context-aware behavior.
+  - Architected orchestration layers for agent pipelines: multi-step planning, tool use (APIs, databases, search), state management, and safety/guardrails (rate limits, content filtering, input validation).
+  - Integrated observability and evaluation: telemetry for prompts and responses, automated evaluation metrics (accuracy, relevance, hallucination rate), and A/B testing for agent behavior.
+
 - **Backend & API Design**
   - .NET Framework and .NET Core / ASP.NET Core Web API
   - Razor Pages, Blazor (Server & WebAssembly)
